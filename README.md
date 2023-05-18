@@ -88,6 +88,10 @@ This software does have a perpetual license, but encourages you to purchase a su
 
 (see [Adobe Illustrator](#adobe-illustrator))
 
+# Relevant XKCD
+
+![Universal Price Tiers](https://imgs.xkcd.com/comics/universe_price_tiers_2x.png)
+
 # Honorable Mentions 🏆
 
 Here is some awesome software you should check out that doesn't necessarily fit into the categories above, but also doesn't require a subscription to use it.
