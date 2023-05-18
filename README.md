@@ -3,6 +3,10 @@ A list of great subscription-free alternatives to common software. After all, ma
 
 All prices listed are USD (United States Dollar).
 
+## 1Password
+
+- [KeePass](https://keepass.info/index.html) (Free)
+
 ## Adobe Acrobat Pro
 
 - [CutePDF](https://www.cutepdf.com) ($49.95)
@@ -68,6 +72,16 @@ This software does have a perpetual license, but encourages you to purchase a su
 
 (see [Adobe Illustrator](#adobe-illustrator))
 
+## JIRA
+
+- [Redmine](https://www.redmine.org/) (Free)
+- [WeKan](https://wekan.github.io/) (Free)
+
+## Lucidchart
+
+- [Dia](https://wiki.gnome.org/Apps/Dia) (Free)
+- [Draw.io](https://www.drawio.com/)
+
 ## Maya
 
 - [Blender](https://www.blender.org/) (Free)
@@ -75,6 +89,7 @@ This software does have a perpetual license, but encourages you to purchase a su
 ## Microsoft 365
 
 - [LibreOffice](https://www.libreoffice.org/) (Free)
+- [OpenOffice](https://www.openoffice.org/) (Free)
 
 ## Reason
 
@@ -100,6 +115,12 @@ Here is some awesome software you should check out that doesn't necessarily fit 
 
 - [Aseprite](https://www.aseprite.org/) ($19.99)
 - [PixelMash](https://nevercenter.com/pixelmash/) ($29)
+
+### Transcoding
+
+- [Handbrake](https://handbrake.fr/) (Free)
+- [MediaHuman Audio Converter](https://www.mediahuman.com/audio-converter/) (Free)
+- [MediaHuman Video Converter](https://www.mediahuman.com/video-converter/5/) ($14.99)
 
 ---
 
