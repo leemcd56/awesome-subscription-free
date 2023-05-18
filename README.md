@@ -1,5 +1,7 @@
 # Awesome Subscription-Free Software
-A list of great subscription-free alternatives to common software. All prices listed are USD (United States Dollar).
+A list of great subscription-free alternatives to common software. After all, maintaining a lot of subscriptions is like [death by a thousand cuts](https://en.wikipedia.org/w/index.php?title=Lingchi) and a good way to stay broke, but that's my opinion (and lived experience).
+
+All prices listed are USD (United States Dollar).
 
 ## Adobe Acrobat Pro
 
@@ -38,6 +40,7 @@ A list of great subscription-free alternatives to common software. All prices li
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) (Free)
 - [DaVinci Resolve Studio](https://www.blackmagicdesign.com/products/davinciresolve) ($295)
 - [Olive](https://www.olivevideoeditor.org/) (Free)
+- [Shotcut](https://shotcut.org) (Free)
 - [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro/) ($399, "New License")
 
 ## Avid Pro Tools
@@ -85,7 +88,7 @@ This software does have a perpetual license, but encourages you to purchase a su
 
 (see [Adobe Illustrator](#adobe-illustrator))
 
-# Honorable Mentions
+# Honorable Mentions 🏆
 
 Here is some awesome software you should check out that doesn't necessarily fit into the categories above, but also doesn't require a subscription to use it.
 
