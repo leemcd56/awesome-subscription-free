@@ -58,7 +58,7 @@ This software does have a perpetual license, but encourages you to purchase a su
 
 ## CelAction
 
-- [OpenToonz](https://opentoonz.github.io/)
+- [OpenToonz](https://opentoonz.github.io/) (Free)
 - [ToonBoom Harmony](https://www.toonboom.com/products/harmony) ($442.50 base)
 
 ## Figma
