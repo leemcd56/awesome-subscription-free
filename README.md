@@ -67,6 +67,7 @@ This software does have a perpetual license, but encourages you to purchase a su
 
 - [OpenToonz](https://opentoonz.github.io/) (Free)
 - [ToonBoom Harmony](https://www.toonboom.com/products/harmony) ($442.50 base)
+- [TVPaint](https://www.tvpaint.com/) ($292.75 base [approx. from EUR])
 
 ## Figma
 
