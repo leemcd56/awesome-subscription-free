@@ -129,7 +129,7 @@ This software does have a perpetual license but encourages you to purchase a sub
 
 ### Figma
 
-(see [Adobe Illustrator](#adobe-illustrator))
+(see _Adobe Illustrator_)
 
 ### GameMaker
 
@@ -168,17 +168,17 @@ This software does have a perpetual license but encourages you to purchase a sub
 
 - [OBS Studio](https://obsproject.com/) (Free)
 
-## Spark
+### Spark
 
-(see [Airmail](#airmail))
+(see _Airmail_)
 
-## SketchUp
+### SketchUp
 
-(see [Maya](#maya))
+(see _Maya_)
 
 ### Unity
 
-(see [GameMaker](#gamemaker))
+(see _GameMaker_)
 
 ## Relevant XKCD
 
