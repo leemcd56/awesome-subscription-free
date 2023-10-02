@@ -1,33 +1,36 @@
 # Awesome Subscription-Free Software
+
+[![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 A list of great subscription-free alternatives to common software. After all, maintaining a lot of subscriptions is like [death by a thousand cuts](https://en.wikipedia.org/w/index.php?title=Lingchi) and a good way to stay broke, but that's my opinion (and lived experience).
 
 All prices listed are USD (United States Dollar).
 
-## 1Password
+### 1Password
 
 - [KeePass](https://keepass.info/index.html) (Free)
 
-## Adobe Acrobat Pro
+### Adobe Acrobat Pro
 
 - [CutePDF](https://www.cutepdf.com) ($49.95)
 - [uPDF](https://updf.com/) ($99.99)
 
-## Adobe Audition
+### Adobe Audition
 
 - [Audacity](https://www.audacityteam.org/) (Free)
 - [SOUND FORGE Pro](https://www.magix.com/us/music-editing/sound-forge/sound-forge-pro/) ($349 base)
 
-## Adobe Illustrator
+### Adobe Illustrator
 
 - [Affinity Designer](https://affinity.serif.com/en-us/designer/) ($69.99)
 - [CorelDRAW](https://www.coreldraw.com/en/product/coreldraw/) ($549)
 - [InkScape](https://inkscape.org/) (Free)
 
-## Adobe InDesign
+### Adobe InDesign
 
 - [Affinity Publisher](https://affinity.serif.com/en-us/publisher/) ($69.99)
 
-## Adobe Lightroom
+### Adobe Lightroom
 
 - [Capture One](https://www.captureone.com/en) ($299)
 - [darktable](https://www.darktable.org/) (Free)
@@ -35,7 +38,7 @@ All prices listed are USD (United States Dollar).
 - [PhotoLab 7 Elite](https://shop.dxo.com/en/dxo-photolab7-elite.html) ($229, w/o free upgrades)
 - [PhotoLab 7 Essential](https://shop.dxo.com/en/dxo-photolab7-essential.html) ($139, w/o free upgrades) 
 
-## Adobe Photoshop
+### Adobe Photoshop
 
 - [Affinity Photo](https://affinity.serif.com/en-us/photo/) ($69.99)
 - [ArtRage](https://www.artrage.com/artrage/) ($80)
@@ -45,26 +48,26 @@ All prices listed are USD (United States Dollar).
 - [Pixelmator Pro](https://www.pixelmator.com/pro/) ($49.99, macOS/iPadOS only)
 - [Rebelle](https://www.escapemotions.com/products/rebelle/about) ($89.99, "Pro" for $149.99)
 
-## Adobe Premiere
+### Adobe Premiere
 
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) (Free)
-- [DaVinci Resolve Studio](https://www.blackmagicdesign.com/products/davinciresolve) ($295)
+- [DaVinci Resolve Studio](https://www.blackmagicdesign.com/products/davinciresolve/studio) ($295)
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/) ($299.99, macOS Only)
 - [Olive](https://www.olivevideoeditor.org/) (Free)
 - [Shotcut](https://shotcut.org) (Free)
 - [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro/) ($399, "New License")
 - [Wondershare Filmora](https://filmora.wondershare.com/) ($79.99, "Perpetual Plan" w/o free upgrade)
 
-## Airmail
+### Airmail
 
 - [Thunderbird](https://www.thunderbird.net/) (Free)
 
-## AutoCAD
+### AutoCAD
 
 - [FreeCAD](https://www.freecad.org/) (Free)
 - [LibreCAD](https://librecad.org/) (Free)
 
-## Avid Pro Tools
+### Avid Pro Tools
 
 - [Ableton Live](https://www.ableton.com/en/live/) ($99.99 base)
 - [Cubase](https://www.steinberg.net/cubase/) ($99.99 base)
@@ -72,7 +75,7 @@ All prices listed are USD (United States Dollar).
 - [Logic Pro](https://www.apple.com/logic-pro/) ($199.99)
 - [PreSonus Studio One](https://www.presonus.com/en-US/studio-one.html) ($99.95 base)
 
-## Avid Sibelius
+### Avid Sibelius
 
 This software does have a perpetual license but encourages you to purchase a subscription license.
 
@@ -80,17 +83,17 @@ This software does have a perpetual license but encourages you to purchase a sub
 - [MuseScore](https://musescore.org/en) (Free)
 - [PreSonus Notion](https://legacy.presonus.com/products/Notion) ($149.95)
 
-## CelAction
+### CelAction
 
 - [OpenToonz](https://opentoonz.github.io/) (Free)
 - [ToonBoom Harmony](https://www.toonboom.com/products/harmony) ($442.50 base)
-- [TVPaint](https://www.tvpaint.com/) ($292.75 base [approx. from EUR])
+- [TVPaint](https://www.tvpaint.com/) ($292.75 base \[approx. from EUR\])
 
-## Figma
+### Figma
 
 (see [Adobe Illustrator](#adobe-illustrator))
 
-## GameMaker
+### GameMaker
 
 - [Godot](https://godotengine.org/) (Free)
 - [MonoGame](https://www.monogame.net/) (Free)
@@ -99,31 +102,31 @@ This software does have a perpetual license but encourages you to purchase a sub
 - [Ren'Py](https://www.renpy.org/) (Free)
 - [Stencyl](https://www.stencyl.com/) (Free)
 
-## JIRA
+### JIRA
 
 - [Redmine](https://www.redmine.org/) (Free)
 - [WeKan](https://wekan.github.io/) (Free)
 
-## Lucidchart
+### Lucidchart
 
 - [Dia](https://wiki.gnome.org/Apps/Dia) (Free)
 - [Draw.io](https://www.drawio.com/)
 
-## Maya
+### Maya
 
 - [Blender](https://www.blender.org/) (Free)
 - [Cinema4D](https://www.maxon.net/en/buy/perpetual) ($3,495, "Perpetual Plan" w/o free upgrade)
 
-## Microsoft 365
+### Microsoft 365
 
 - [LibreOffice](https://www.libreoffice.org/) (Free)
 - [OpenOffice](https://www.openoffice.org/) (Free)
 
-## Reason
+### Reason
 
 (see [Avid Pro Tools](#avid-pro-tools))
 
-## Restream
+### Restream
 
 - [OBS Studio](https://obsproject.com/) (Free)
 
@@ -131,27 +134,19 @@ This software does have a perpetual license but encourages you to purchase a sub
 
 (see [Airmail](#airmail))
 
-## Sketch
-
-(see [Adobe Illustrator](#adobe-illustrator))
-
 ## Sketchup
 
 (see [Maya](#maya))
 
-## Unity
+### Unity
 
 (see [GameMaker](#gamemaker))
 
-## Unreal Engine
-
-(see [GameMaker](#gamemaker))
-
-# Relevant XKCD
+## Relevant XKCD
 
 ![Universal Price Tiers](https://imgs.xkcd.com/comics/universe_price_tiers_2x.png)
 
-# Honorable Mentions 🏆
+## Honorable Mentions 🏆
 
 Here is some awesome software you should check out that doesn't necessarily fit into the categories above but doesn't require a subscription.
 
