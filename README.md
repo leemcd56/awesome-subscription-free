@@ -20,6 +20,7 @@ All prices listed are USD (United States Dollar).
 ## Adobe Illustrator
 
 - [Affinity Designer](https://affinity.serif.com/en-us/designer/) ($69.99)
+- [CorelDRAW](https://www.coreldraw.com/en/product/coreldraw/) ($549.00)
 - [InkScape](https://inkscape.org/) (Free)
 
 ## Adobe InDesign
@@ -35,9 +36,12 @@ All prices listed are USD (United States Dollar).
 ## Adobe Photoshop
 
 - [Affinity Photo](https://affinity.serif.com/en-us/photo/) ($69.99)
+- [ArtRage](https://www.artrage.com/artrage/) ($80)
 - [GIMP](https://www.gimp.org/) (Free)
+- [Krita](https://krita.org) (Free)
 - [Luminar](https://skylum.com/luminar) ($199, "Lifetime")
 - [Pixelmator Pro](https://www.pixelmator.com/pro/) ($49.99, macOS/iPadOS only)
+- [Rebelle](https://www.escapemotions.com/products/rebelle/about) ($89.99, "Pro" for $149.99)
 
 ## Adobe Premiere
 
