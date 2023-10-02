@@ -12,7 +12,6 @@ All prices listed are USD (United States Dollar).
   - [Adobe Audition](#adobe-audition)
   - [Adobe Illustrator](#adobe-illustrator)
   - [Adobe InDesign](#adobe-indesign)
-  - [Adobe Illustrator](#adobe-illustrator)
   - [Adobe Lightroom](#adobe-lightroom)
   - [Adobe Photoshop](#adobe-photoshop)
   - [Adobe Premiere](#adobe-premiere)
