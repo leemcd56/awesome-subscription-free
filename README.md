@@ -183,6 +183,7 @@ Here is some awesome software you should check out that doesn't necessarily fit 
 
 ### Sources
 
+- [AlternativeTo](https://alternativeto.net/)
 - [Princeton University](https://mcgrawdll.princeton.edu/news/free-low-cost-software-alternatives/)
 - [TechLog360](https://techlog360.com/best-open-source-alternatives/)
 - [Don't Waste Your Money](https://www.dontwasteyourmoney.com/free-alternatives-expensive-computer-software/)
