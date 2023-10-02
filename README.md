@@ -47,9 +47,20 @@ All prices listed are USD (United States Dollar).
 
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) (Free)
 - [DaVinci Resolve Studio](https://www.blackmagicdesign.com/products/davinciresolve) ($295)
+- [Final Cut Pro](https://www.apple.com/final-cut-pro/) ($299.99, macOS Only)
 - [Olive](https://www.olivevideoeditor.org/) (Free)
 - [Shotcut](https://shotcut.org) (Free)
 - [VEGAS Pro](https://www.vegascreativesoftware.com/us/vegas-pro/) ($399, "New License")
+- [Wondershare Filmora](https://filmora.wondershare.com/) ($79.99, "Perpetual Plan" w/o free upgrade)
+
+## Airmail
+
+- [Thunderbird](https://www.thunderbird.net/) (Free)
+
+## AutoCAD
+
+- [FreeCAD](https://www.freecad.org/) (Free)
+- [LibreCAD](https://librecad.org/) (Free)
 
 ## Avid Pro Tools
 
@@ -61,7 +72,7 @@ All prices listed are USD (United States Dollar).
 
 ## Avid Sibelius
 
-This software does have a perpetual license, but encourages you to purchase a subscription license.
+This software does have a perpetual license but encourages you to purchase a subscription license.
 
 - [Finale](https://www.finalemusic.com/) ($299)
 - [MuseScore](https://musescore.org/en) (Free)
@@ -77,6 +88,15 @@ This software does have a perpetual license, but encourages you to purchase a su
 
 (see [Adobe Illustrator](#adobe-illustrator))
 
+## GameMaker
+
+- [Godot](https://godotengine.org/) (Free)
+- [MonoGame](https://www.monogame.net/) (Free)
+- [OGRE](https://www.ogre3d.org/) (Free)
+- [Panda3D](https://www.panda3d.org/) (Free)
+- [Ren'Py](https://www.renpy.org/) (Free)
+- [Stencyl](https://www.stencyl.com/) (Free)
+
 ## JIRA
 
 - [Redmine](https://www.redmine.org/) (Free)
@@ -90,6 +110,7 @@ This software does have a perpetual license, but encourages you to purchase a su
 ## Maya
 
 - [Blender](https://www.blender.org/) (Free)
+- [Cinema4D](https://www.maxon.net/en/buy/perpetual) ($3,495, "Perpetual Plan" w/o free upgrade)
 
 ## Microsoft 365
 
@@ -104,9 +125,25 @@ This software does have a perpetual license, but encourages you to purchase a su
 
 - [OBS Studio](https://obsproject.com/) (Free)
 
+## Spark
+
+(see [Airmail](#airmail))
+
 ## Sketch
 
 (see [Adobe Illustrator](#adobe-illustrator))
+
+## Sketchup
+
+(see [Maya](#maya))
+
+## Unity
+
+(see [GameMaker](#gamemaker))
+
+## Unreal Engine
+
+(see [GameMaker](#gamemaker))
 
 # Relevant XKCD
 
@@ -114,7 +151,19 @@ This software does have a perpetual license, but encourages you to purchase a su
 
 # Honorable Mentions 🏆
 
-Here is some awesome software you should check out that doesn't necessarily fit into the categories above, but also doesn't require a subscription to use it.
+Here is some awesome software you should check out that doesn't necessarily fit into the categories above but doesn't require a subscription.
+
+### Downloaders
+
+- [&micro;Torrent](https://www.utorrent.com/) (Free, native build not supported by macOS)
+- [qBittorrent](https://www.qbittorrent.org/) (Free)
+- [Transmission](https://transmissionbt.com/) (Free)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) (Free, CLI-only)
+
+### PCB Design
+
+- [CircuitMaker](https://circuitmaker.com/) (Free)
+- [KiCAD](https://www.kicad.org/) (Free)
 
 ### Sprite Editors
 
@@ -123,6 +172,7 @@ Here is some awesome software you should check out that doesn't necessarily fit 
 
 ### Transcoding
 
+- [FFmpeg](https://ffmpeg.org/) (Free, CLI-only)
 - [Handbrake](https://handbrake.fr/) (Free)
 - [MediaHuman Audio Converter](https://www.mediahuman.com/audio-converter/) (Free)
 - [MediaHuman Video Converter](https://www.mediahuman.com/video-converter/5/) ($14.99)
