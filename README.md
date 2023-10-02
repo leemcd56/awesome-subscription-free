@@ -160,7 +160,7 @@ This software does have a perpetual license but encourages you to purchase a sub
 
 ### Reason
 
-(see [Avid Pro Tools](#avid-pro-tools))
+(see _Avid Pro Tools_)
 
 ### Restream
 
