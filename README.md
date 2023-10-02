@@ -6,6 +6,44 @@ A list of great subscription-free alternatives to common software. After all, ma
 
 All prices listed are USD (United States Dollar).
 
+## Table of Contents
+
+- [Subscription-Free Software](#subscription-free-software)
+  - [1Password](#1password)
+  - [Adobe Acrobat Pro](#adobe-acrobat-pro)
+  - [Adobe Audition](#adobe-audition)
+  - [Adobe Illustrator](#adobe-illustrator)
+  - [Adobe InDesign](#adobe-indesign)
+  - [Adobe Illustrator](#adobe-illustrator)
+  - [Adobe Lightroom](#adobe-lightroom)
+  - [Adobe Photoshop](#adobe-photoshop)
+  - [Adobe Premiere](#adobe-premiere)
+  - [Airmail](#airmail)
+  - [AutoCAD](#autocad)
+  - [Avid Pro Tools](#avid-pro-tools)
+  - [Avid Sibelius](#avid-sibelius)
+  - [CelAction](#celaction)
+  - [Figma](#figma)
+  - [GameMaker](#gamemaker)
+  - [JIRA](#jira)
+  - [Lucidchart](#lucidchart)
+  - [Maya](#maya)
+  - [Microsoft 365](#microsoft-365)
+  - [Reason](#reason)
+  - [Restream](#restream)
+  - [Spark](#spark)
+  - [SketchUp](#sketchup)
+  - [Unity](#unity)
+- [Relevant XKCD](#relevant-xkcd)
+- [Honorable Mentions](#honorable-mentions-)
+  - [Downloaders](#downloaders)
+  - [PCB Design](#pcb-design)
+  - [Sprite Editors](#sprite-editors)
+  - [Transcoding](#transcoding)
+- [Sources](#sources)
+
+## Subscription-Free Software
+
 ### 1Password
 
 - [KeePass](https://keepass.info/index.html) (Free)
@@ -134,7 +172,7 @@ This software does have a perpetual license but encourages you to purchase a sub
 
 (see [Airmail](#airmail))
 
-## Sketchup
+## SketchUp
 
 (see [Maya](#maya))
 
@@ -176,7 +214,7 @@ Here is some awesome software you should check out that doesn't necessarily fit 
 
 ---
 
-### Sources
+## Sources
 
 - [AlternativeTo](https://alternativeto.net/)
 - [Princeton University](https://mcgrawdll.princeton.edu/news/free-low-cost-software-alternatives/)
