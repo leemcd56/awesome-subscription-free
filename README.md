@@ -20,7 +20,7 @@ All prices listed are USD (United States Dollar).
 ## Adobe Illustrator
 
 - [Affinity Designer](https://affinity.serif.com/en-us/designer/) ($69.99)
-- [CorelDRAW](https://www.coreldraw.com/en/product/coreldraw/) ($549.00)
+- [CorelDRAW](https://www.coreldraw.com/en/product/coreldraw/) ($549)
 - [InkScape](https://inkscape.org/) (Free)
 
 ## Adobe InDesign
