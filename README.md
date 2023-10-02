@@ -32,6 +32,8 @@ All prices listed are USD (United States Dollar).
 - [Capture One](https://www.captureone.com/en) ($299)
 - [darktable](https://www.darktable.org/) (Free)
 - [Luminar Neo](https://skylum.com/checkout/luminar-neo) ($299)
+- [PhotoLab 7 Elite](https://shop.dxo.com/en/dxo-photolab7-elite.html) ($229, w/o free upgrades)
+- [PhotoLab 7 Essential](https://shop.dxo.com/en/dxo-photolab7-essential.html) ($139, w/o free upgrades) 
 
 ## Adobe Photoshop
 
