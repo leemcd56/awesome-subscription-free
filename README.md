@@ -1,4 +1,4 @@
-# Awesome Subscription-Free Software [![Awesome](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Subscription-Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A list of great subscription-free alternatives to common software. After all, maintaining a lot of subscriptions is like [death by a thousand cuts](https://en.wikipedia.org/w/index.php?title=Lingchi) and a good way to stay broke, but that's my opinion (and lived experience).
 
