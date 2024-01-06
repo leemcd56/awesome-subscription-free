@@ -115,8 +115,13 @@ All prices listed are USD (United States Dollar).
 This software does have a perpetual license but encourages you to purchase a subscription license.
 
 - [Finale](https://www.finalemusic.com/) ($299)
+- [FORTE](https://www.fortenotation.com/en/products/writing-scores/forte-home/) ($99, Windows only)
+- [Guitar Pro](https://www.guitar-pro.com/) ($69.95)
+- [LilyPond](https://lilypond.org/) (Free)
+- [MagicScore SongWriter](https://www.musicaleditor.com/magicscore-songwriter.html) ($29.95)
 - [MuseScore](https://musescore.org/en) (Free)
 - [PreSonus Notion](https://legacy.presonus.com/products/Notion) ($149.95)
+- [StaffPad](https://www.staffpad.net/) ($89.99, Windows/iPadOS only)
 
 ### CelAction
 
