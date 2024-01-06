@@ -121,6 +121,7 @@ This software does have a perpetual license but encourages you to purchase a sub
 ### CelAction
 
 - [OpenToonz](https://opentoonz.github.io/) (Free)
+- [Procreate Dreams](https://procreate.com/dreams) ($19.99, iPadOS only)
 - [ToonBoom Harmony](https://www.toonboom.com/products/harmony) ($442.50 base)
 - [TVPaint](https://www.tvpaint.com/) ($292.75 base \[approx. from EUR\])
 
