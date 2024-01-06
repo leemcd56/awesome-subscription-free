@@ -81,6 +81,7 @@ All prices listed are USD (United States Dollar).
 - [Krita](https://krita.org) (Free)
 - [Luminar](https://skylum.com/luminar) ($199, "Lifetime")
 - [Pixelmator Pro](https://www.pixelmator.com/pro/) ($49.99, macOS/iPadOS only)
+- [Procreate](https://procreate.com/ipad) ($12.99, iPadOS only)
 - [Rebelle](https://www.escapemotions.com/products/rebelle/about) ($89.99, "Pro" for $149.99)
 
 ### Adobe Premiere
