@@ -128,15 +128,6 @@ This software does have a perpetual license but encourages you to purchase a sub
 
 (see _Adobe Illustrator_)
 
-### GameMaker
-
-- [Godot](https://godotengine.org/) (Free)
-- [MonoGame](https://www.monogame.net/) (Free)
-- [OGRE](https://www.ogre3d.org/) (Free)
-- [Panda3D](https://www.panda3d.org/) (Free)
-- [Ren'Py](https://www.renpy.org/) (Free)
-- [Stencyl](https://www.stencyl.com/) (Free)
-
 ### JIRA
 
 - [Redmine](https://www.redmine.org/) (Free)
@@ -175,7 +166,13 @@ This software does have a perpetual license but encourages you to purchase a sub
 
 ### Unity
 
-(see _GameMaker_)
+- [GameMaker](https://gamemaker.io/en) (Free)
+- [Godot](https://godotengine.org/) (Free)
+- [MonoGame](https://www.monogame.net/) (Free)
+- [OGRE](https://www.ogre3d.org/) (Free)
+- [Panda3D](https://www.panda3d.org/) (Free)
+- [Ren'Py](https://www.renpy.org/) (Free)
+- [Stencyl](https://www.stencyl.com/) (Free)
 
 ## Relevant XKCD
 
