@@ -100,16 +100,20 @@ All prices listed are USD (United States Dollar).
 
 ### AutoCAD
 
+- [BricsCAD](https://www.bricsys.com/) ($708 base for "Perpetual")
 - [FreeCAD](https://www.freecad.org/) (Free)
 - [LibreCAD](https://librecad.org/) (Free)
 
 ### Avid Pro Tools
 
 - [Ableton Live](https://www.ableton.com/en/live/) ($99.99 base)
+- [Ardour](https://ardour.org/) (Free)
 - [Cubase](https://www.steinberg.net/cubase/) ($99.99 base)
 - [FL Studio](https://www.image-line.com/) ($99.99 base)
+- [LMMS](https://lmms.io/) (Free)
 - [Logic Pro](https://www.apple.com/logic-pro/) ($199.99)
 - [PreSonus Studio One](https://www.presonus.com/en-US/studio-one.html) ($99.95 base)
+- [Zrythm](https://www.zrythm.org/en/) (Free base, paid for additional features)
 
 ### Avid Sibelius
 
@@ -130,6 +134,14 @@ This software does have a perpetual license but encourages you to purchase a sub
 - [Procreate Dreams](https://procreate.com/dreams) ($19.99, iPadOS only)
 - [ToonBoom Harmony](https://www.toonboom.com/products/harmony) ($442.50 base)
 - [TVPaint](https://www.tvpaint.com/) ($292.75 base \[approx. from EUR\])
+
+### EasyWorship
+
+- [FreeWorship](http://www.freeworship.org.uk/) (Free)
+- [OpenLP](https://openlp.org/) (Free)
+- [OpenSong](https://opensong.org/) (Free)
+- [ProPresenter](https://renewedvision.com/propresenter/) ($399 base)
+- [VideoPsalm](https://myvideopsalm.weebly.com/) (Free)
 
 ### Figma
 
@@ -200,6 +212,13 @@ Here is some awesome software you should check out that doesn't necessarily fit 
 
 - [CircuitMaker](https://circuitmaker.com/) (Free)
 - [KiCAD](https://www.kicad.org/) (Free)
+
+### Programming
+
+- [GNU Emacs](https://www.gnu.org/savannah-checkouts/gnu/emacs/emacs.html) (Free)
+- [Notepad++](https://notepad-plus-plus.org/) (Free)
+- [Vim](https://www.vim.org/) (Free)
+- [Visual Studio Code](https://code.visualstudio.com/) (Free)
 
 ### Sprite Editors
 
