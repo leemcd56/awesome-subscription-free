@@ -22,7 +22,6 @@ All prices listed are USD (United States Dollar).
   - [CelAction](#celaction)
   - [EasyWorship](#easyworship)
   - [Figma](#figma)
-  - [GameMaker](#gamemaker)
   - [JIRA](#jira)
   - [Lucidchart](#lucidchart)
   - [Maya](#maya)
