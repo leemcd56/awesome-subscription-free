@@ -22,8 +22,6 @@ All prices listed are USD (United States Dollar).
   - [CelAction](#celaction)
   - [EasyWorship](#easyworship)
   - [Figma](#figma)
-  - [JIRA](#jira)
-  - [Lucidchart](#lucidchart)
   - [Maya](#maya)
   - [Microsoft 365](#microsoft-365)
   - [Reason](#reason)
@@ -31,6 +29,12 @@ All prices listed are USD (United States Dollar).
   - [Spark](#spark)
   - [SketchUp](#sketchup)
   - [Unity](#unity)
+- [Sass/Pass Alternatives](#saaspaas-alternatives)
+  - [Firebase](#firebase)
+  - [Heroku](#heroku)
+  - [JIRA](#jira)
+  - [Lucidchart](#lucidchart)
+  - [Vercel](#vercel)
 - [Relevant XKCD](#relevant-xkcd)
 - [Honorable Mentions](#honorable-mentions-)
   - [Downloaders](#downloaders)
@@ -99,6 +103,10 @@ All prices listed are USD (United States Dollar).
 
 - [Thunderbird](https://www.thunderbird.net/) (Free)
 
+### Airtable
+
+- [nocodb](https://github.com/nocodb/nocodb) (Free)
+
 ### AutoCAD
 
 - [BricsCAD](https://www.bricsys.com/) ($708 base for "Perpetual")
@@ -148,16 +156,6 @@ This software does have a perpetual license but encourages you to purchase a sub
 
 (see _Adobe Illustrator_)
 
-### JIRA
-
-- [Redmine](https://www.redmine.org/) (Free)
-- [WeKan](https://wekan.github.io/) (Free)
-
-### Lucidchart
-
-- [Dia](https://wiki.gnome.org/Apps/Dia) (Free)
-- [Draw.io](https://www.drawio.com/)
-
 ### Maya
 
 - [Blender](https://www.blender.org/) (Free)
@@ -175,6 +173,10 @@ This software does have a perpetual license but encourages you to purchase a sub
 ### Restream
 
 - [OBS Studio](https://obsproject.com/) (Free)
+
+### Slack
+
+- [Mattermost](https://github.com/mattermost/mattermost) (Free)
 
 ### Spark
 
@@ -194,6 +196,37 @@ This software does have a perpetual license but encourages you to purchase a sub
 - [Ren'Py](https://www.renpy.org/) (Free)
 - [Stencyl](https://www.stencyl.com/) (Free)
 
+### Zoom
+
+- [Jitsi](https://github.com/jitsi) (Free)
+
+## SaaS/PaaS Alternatives
+
+Are you looking for some great self-hosted alternatives to common online software? Shoutout to Fireship.io for recommending these!
+
+### Firebase
+
+- [InstantDB, a Firebase alternative](https://github.com/instantdb/instant) (Free)
+
+### Heroku
+
+- [Dokku](https://github.com/dokku/dokku) (Free)
+
+### JIRA
+
+- [Plane](https://github.com/makeplane/plane) (Free)
+- [Redmine](https://www.redmine.org/) (Free)
+- [WeKan](https://wekan.github.io/) (Free)
+
+### Lucidchart
+
+- [Dia](https://wiki.gnome.org/Apps/Dia) (Free)
+- [Draw.io](https://www.drawio.com/)
+
+### Vercel
+
+- [Coolify](https://github.com/coollabsio/coolify) (Free)
+
 ## Relevant XKCD
 
 ![Universal Price Tiers](https://imgs.xkcd.com/comics/universe_price_tiers_2x.png)
@@ -208,6 +241,10 @@ Here is some awesome software you should check out that doesn't necessarily fit 
 - [qBittorrent](https://www.qbittorrent.org/) (Free)
 - [Transmission](https://transmissionbt.com/) (Free)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) (Free, CLI-only)
+
+### ERPs
+
+- [ERPNext](https://github.com/frappe/erpnext) (Free if self-hosted)
 
 ### PCB Design
 
