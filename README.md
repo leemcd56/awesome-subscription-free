@@ -30,6 +30,7 @@ All prices listed are USD (United States Dollar).
   - [SketchUp](#sketchup)
   - [Unity](#unity)
 - [Sass/Pass Alternatives](#saaspaas-alternatives)
+  - [ERPs](#erps)
   - [Firebase](#firebase)
   - [Heroku](#heroku)
   - [JIRA](#jira)
@@ -204,6 +205,10 @@ This software does have a perpetual license but encourages you to purchase a sub
 
 Are you looking for some great self-hosted alternatives to common online software? Shoutout to [Fireship.io](https://fireship.io/) for recommending these!
 
+### ERPs
+
+- [ERPNext](https://github.com/frappe/erpnext) (Free if self-hosted)
+
 ### Firebase
 
 - [InstantDB, a Firebase alternative](https://github.com/instantdb/instant) (Free)
@@ -241,10 +246,6 @@ Here is some awesome software you should check out that doesn't necessarily fit 
 - [qBittorrent](https://www.qbittorrent.org/) (Free)
 - [Transmission](https://transmissionbt.com/) (Free)
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) (Free, CLI-only)
-
-### ERPs
-
-- [ERPNext](https://github.com/frappe/erpnext) (Free if self-hosted)
 
 ### PCB Design
 
