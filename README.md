@@ -202,7 +202,7 @@ This software does have a perpetual license but encourages you to purchase a sub
 
 ## SaaS/PaaS Alternatives
 
-Are you looking for some great self-hosted alternatives to common online software? Shoutout to Fireship.io for recommending these!
+Are you looking for some great self-hosted alternatives to common online software? Shoutout to [Fireship.io](https://fireship.io/) for recommending these!
 
 ### Firebase
 
