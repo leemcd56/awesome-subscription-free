@@ -9,6 +9,7 @@ All prices listed are USD (United States Dollar).
 - [Subscription-Free Software](#subscription-free-software)
   - [1Password](#1password)
   - [Adobe Acrobat Pro](#adobe-acrobat-pro)
+  - [Adobe After Effects](#adobe-after-effects)
   - [Adobe Audition](#adobe-audition)
   - [Adobe Illustrator](#adobe-illustrator)
   - [Adobe InDesign](#adobe-indesign)
@@ -55,6 +56,10 @@ All prices listed are USD (United States Dollar).
 
 - [CutePDF](https://www.cutepdf.com) ($49.95)
 - [uPDF](https://updf.com/) ($99.99)
+
+### Adobe After Effects
+
+- [Friction](https://friction.graphics/) (Free)
 
 ### Adobe Audition
 
