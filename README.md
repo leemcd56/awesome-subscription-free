@@ -55,6 +55,7 @@ All prices listed are USD (United States Dollar).
 ### Adobe Acrobat Pro
 
 - [CutePDF](https://www.cutepdf.com) ($49.95)
+- [Slay PDF](https://slaypdf.com/) (Free)
 - [uPDF](https://updf.com/) ($99.99)
 
 ### Adobe After Effects
