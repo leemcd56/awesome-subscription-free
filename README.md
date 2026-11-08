@@ -17,6 +17,7 @@ All prices listed are USD (United States Dollar).
   - [Adobe Photoshop](#adobe-photoshop)
   - [Adobe Premiere](#adobe-premiere)
   - [Airmail](#airmail)
+  - [AppTweak](#apptweak)
   - [AutoCAD](#autocad)
   - [Avid Pro Tools](#avid-pro-tools)
   - [Avid Sibelius](#avid-sibelius)
@@ -113,6 +114,10 @@ All prices listed are USD (United States Dollar).
 ### Airtable
 
 - [nocodb](https://github.com/nocodb/nocodb) (Free)
+
+### AppTweak
+
+- [Wow Keywords](https://wowkeywords.com) ($99, ASO keyword research for Mac and Windows)
 
 ### AutoCAD
 
