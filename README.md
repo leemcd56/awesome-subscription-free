@@ -98,6 +98,7 @@ All prices listed are USD (United States Dollar).
 
 ### Adobe Premiere
 
+- [ClipsPal](https://www.clipspal.com/) ($59, lifetime license)
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) (Free)
 - [DaVinci Resolve Studio](https://www.blackmagicdesign.com/products/davinciresolve/studio) ($295)
 - [Final Cut Pro](https://www.apple.com/final-cut-pro/) ($299.99, macOS Only)
